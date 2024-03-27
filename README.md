@@ -1,0 +1,2 @@
+# eglog
+eg blog
